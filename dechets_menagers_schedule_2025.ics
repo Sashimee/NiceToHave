@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trash Collection Calendar//example.com//
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250102T000000
+DTEND;TZID=Europe/Luxembourg:20250102T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250115T000000
+DTEND;TZID=Europe/Luxembourg:20250115T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250129T000000
+DTEND;TZID=Europe/Luxembourg:20250129T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250212T000000
+DTEND;TZID=Europe/Luxembourg:20250212T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250226T000000
+DTEND;TZID=Europe/Luxembourg:20250226T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250312T000000
+DTEND;TZID=Europe/Luxembourg:20250312T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250326T000000
+DTEND;TZID=Europe/Luxembourg:20250326T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250409T000000
+DTEND;TZID=Europe/Luxembourg:20250409T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250423T000000
+DTEND;TZID=Europe/Luxembourg:20250423T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250507T000000
+DTEND;TZID=Europe/Luxembourg:20250507T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250521T000000
+DTEND;TZID=Europe/Luxembourg:20250521T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250604T000000
+DTEND;TZID=Europe/Luxembourg:20250604T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250618T000000
+DTEND;TZID=Europe/Luxembourg:20250618T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250702T000000
+DTEND;TZID=Europe/Luxembourg:20250702T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250716T000000
+DTEND;TZID=Europe/Luxembourg:20250716T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250730T000000
+DTEND;TZID=Europe/Luxembourg:20250730T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250813T000000
+DTEND;TZID=Europe/Luxembourg:20250813T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250827T000000
+DTEND;TZID=Europe/Luxembourg:20250827T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250910T000000
+DTEND;TZID=Europe/Luxembourg:20250910T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20250924T000000
+DTEND;TZID=Europe/Luxembourg:20250924T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251008T000000
+DTEND;TZID=Europe/Luxembourg:20251008T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251022T000000
+DTEND;TZID=Europe/Luxembourg:20251022T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251105T000000
+DTEND;TZID=Europe/Luxembourg:20251105T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251119T000000
+DTEND;TZID=Europe/Luxembourg:20251119T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251203T000000
+DTEND;TZID=Europe/Luxembourg:20251203T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251217T000000
+DTEND;TZID=Europe/Luxembourg:20251217T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets ménagers
+DTSTART;TZID=Europe/Luxembourg:20251231T000000
+DTEND;TZID=Europe/Luxembourg:20251231T010000
+DESCRIPTION:Trash collection: Déchets ménagers
+END:VEVENT
+END:VCALENDAR
