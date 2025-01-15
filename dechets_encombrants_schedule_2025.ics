@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trash Collection Calendar//example.com//
+BEGIN:VEVENT
+SUMMARY:Déchets encombrants
+DTSTART;TZID=Europe/Luxembourg:20250117T000000
+DTEND;TZID=Europe/Luxembourg:20250117T010000
+DESCRIPTION:Trash collection: Déchets encombrants
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets encombrants
+DTSTART;TZID=Europe/Luxembourg:20250418T000000
+DTEND;TZID=Europe/Luxembourg:20250418T010000
+DESCRIPTION:Trash collection: Déchets encombrants
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets encombrants
+DTSTART;TZID=Europe/Luxembourg:20250718T000000
+DTEND;TZID=Europe/Luxembourg:20250718T010000
+DESCRIPTION:Trash collection: Déchets encombrants
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets encombrants
+DTSTART;TZID=Europe/Luxembourg:20251017T000000
+DTEND;TZID=Europe/Luxembourg:20251017T010000
+DESCRIPTION:Trash collection: Déchets encombrants
+END:VEVENT
+END:VCALENDAR

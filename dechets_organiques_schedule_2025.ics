@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trash Collection Calendar//example.com//
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250103T000000
+DTEND;TZID=Europe/Luxembourg:20250103T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250117T000000
+DTEND;TZID=Europe/Luxembourg:20250117T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250131T000000
+DTEND;TZID=Europe/Luxembourg:20250131T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250214T000000
+DTEND;TZID=Europe/Luxembourg:20250214T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250228T000000
+DTEND;TZID=Europe/Luxembourg:20250228T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250314T000000
+DTEND;TZID=Europe/Luxembourg:20250314T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250328T000000
+DTEND;TZID=Europe/Luxembourg:20250328T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250411T000000
+DTEND;TZID=Europe/Luxembourg:20250411T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250425T000000
+DTEND;TZID=Europe/Luxembourg:20250425T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250502T000000
+DTEND;TZID=Europe/Luxembourg:20250502T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250510T000000
+DTEND;TZID=Europe/Luxembourg:20250510T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250516T000000
+DTEND;TZID=Europe/Luxembourg:20250516T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250523T000000
+DTEND;TZID=Europe/Luxembourg:20250523T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250530T000000
+DTEND;TZID=Europe/Luxembourg:20250530T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250606T000000
+DTEND;TZID=Europe/Luxembourg:20250606T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250613T000000
+DTEND;TZID=Europe/Luxembourg:20250613T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250620T000000
+DTEND;TZID=Europe/Luxembourg:20250620T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250627T000000
+DTEND;TZID=Europe/Luxembourg:20250627T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250704T000000
+DTEND;TZID=Europe/Luxembourg:20250704T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250711T000000
+DTEND;TZID=Europe/Luxembourg:20250711T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250718T000000
+DTEND;TZID=Europe/Luxembourg:20250718T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250725T000000
+DTEND;TZID=Europe/Luxembourg:20250725T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250801T000000
+DTEND;TZID=Europe/Luxembourg:20250801T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250808T000000
+DTEND;TZID=Europe/Luxembourg:20250808T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250816T000000
+DTEND;TZID=Europe/Luxembourg:20250816T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250822T000000
+DTEND;TZID=Europe/Luxembourg:20250822T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250829T000000
+DTEND;TZID=Europe/Luxembourg:20250829T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250905T000000
+DTEND;TZID=Europe/Luxembourg:20250905T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250912T000000
+DTEND;TZID=Europe/Luxembourg:20250912T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250919T000000
+DTEND;TZID=Europe/Luxembourg:20250919T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20250926T000000
+DTEND;TZID=Europe/Luxembourg:20250926T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251003T000000
+DTEND;TZID=Europe/Luxembourg:20251003T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251010T000000
+DTEND;TZID=Europe/Luxembourg:20251010T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251017T000000
+DTEND;TZID=Europe/Luxembourg:20251017T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251024T000000
+DTEND;TZID=Europe/Luxembourg:20251024T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251031T000000
+DTEND;TZID=Europe/Luxembourg:20251031T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251107T000000
+DTEND;TZID=Europe/Luxembourg:20251107T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251121T000000
+DTEND;TZID=Europe/Luxembourg:20251121T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251205T000000
+DTEND;TZID=Europe/Luxembourg:20251205T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Déchets organiques
+DTSTART;TZID=Europe/Luxembourg:20251219T000000
+DTEND;TZID=Europe/Luxembourg:20251219T010000
+DESCRIPTION:Trash collection: Déchets organiques
+END:VEVENT
+END:VCALENDAR
